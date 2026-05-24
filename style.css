@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+
+    h1{
+        color: pink;    
+    }
+}
+.para{
+    color: cyan;
+    font-size: 18px;
+}
+#main-title{
+    color: red;
+    font-size: 36px;
+}
+
+
